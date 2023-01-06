@@ -71,12 +71,14 @@ footer {
   align-items: center;
   justify-content: space-around;
   background: linear-gradient(
-    rgba(27, 255, 0, 0.5),
-    rgba(0, 0, 0, 0.5)
+    rgba(133, 97, 97, 0.1),
+    rgba(0, 0, 0, 0.1)
   );
 }
 
 @media screen and (max-width: 500px){
-    
+    .intro-text{
+        height: 90vh;
+    }
     
 }
