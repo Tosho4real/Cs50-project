@@ -46,6 +46,21 @@
     url("https://images.pexels.com/photos/267507/pexels-photo-267507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
       bottom/ cover fixed no-repeat;
 }
+.python-bg{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://images.pexels.com/photos/12638308/pexels-photo-12638308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+      bottom/ cover fixed no-repeat;
+}
+.contact {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+      bottom/ cover fixed no-repeat;
+}
+.hubby {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://images.pexels.com/photos/978695/pexels-photo-978695.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+      bottom/ cover fixed no-repeat;
+}
 .intro-text h1 {
   font-size: 5rem;
   text-shadow: 1px 1px 3px black;
@@ -92,5 +107,7 @@ footer {
     .nav-links{
         font-size: 1.5rem;
     }
-    
+    .footer{
+      font-size: larger;
+    }
 }
