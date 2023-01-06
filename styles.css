@@ -7,7 +7,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 4rem;
+  height: 10vh;
   box-sizing: border-box;
 }
 .fonts img {
@@ -77,8 +77,20 @@ footer {
 }
 
 @media screen and (max-width: 500px){
+    .main-nav{
+        height: 18vh;
+    }
+    .center{
+        display: none;
+    }
+    .fonts{
+        display: none;
+    }
     .intro-text{
-        height: 90vh;
+        height: 70vh;
+    }
+    .nav-links{
+        font-size: 1.5rem;
     }
     
 }
